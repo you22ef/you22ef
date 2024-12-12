@@ -1,7 +1,7 @@
-<!-- Stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=you22ef&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> 
-</div>
+
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+
+<h1 id="top" align="center">Hi, I'm Youssef Mohamed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1></h1>
 
 <!-- Snake -->
 <h1 style="color: orange; font-style: italic;">A Sneak Eating My Contributions</h1>
