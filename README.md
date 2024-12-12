@@ -4,7 +4,7 @@
 <h1 id="top" align="center">Hi, I'm Youssef Mohamed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1></h1>
 
 <!-- Snake -->
-<h1 style="color: orange; font-style: italic;">A Sneak Eating My Contributions</h1>
+<h2><a id="snake"></a> 🐍 Snake Eating My Contributions</h2>  
 <div align="center">
   
   ![snake gif](https://github.com/you22ef/you22ef/blob/output/github-snake-dark.svg)
