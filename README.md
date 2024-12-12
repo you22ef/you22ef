@@ -4,7 +4,8 @@
 </div>
 
 <!-- Snake -->
+<h1 style="color: orange; font-style: italic;">A Sneak Eating My Contributions</h1>
 <div align="center">
-  <h1 color = "black">A Sneak Eating My Contributions</h1>
+  
   ![snake gif](https://github.com/you22ef/you22ef/blob/output/github-snake-dark.svg)
 </div>
