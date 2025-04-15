@@ -13,10 +13,10 @@
 <!--   <a href="https://git.io/typing-svg">
     <img src="https://komarev.com/ghpvc/?username=noureldeenm&label=Profile%20views&color=0e75b6&style=flat" alt="noureldeenm" />
   </a> -->
-  <a href="[https://www.linkedin.com/in/noureldeenmohamed/](https://www.linkedin.com/in/youssef-mohamed-556538360 utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">
+  <a href="https://www.linkedin.com/in/youssef-mohamed-556538360?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="[https://drive.google.com/file/d/10dmFXnYeJrG4-zeh8hL20HbvzRCi1AK1/view?usp=sharing (https://drive.google.com/file/d/1yFd9Bu99_nlLaZeP0cUTbHS6Mdviglow/view)">
+  <a href="https://drive.google.com/file/d/1yFd9Bu99_nlLaZeP0cUTbHS6Mdviglow/view">
     <img alt="Resume" src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
 </p>
